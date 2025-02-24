@@ -55,5 +55,5 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-cabrera-97a218172/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.cristianok/?next=%2F)
-  (https://www.instagram.com/c.cristianok/?next=%2F)
+  
 </span>
