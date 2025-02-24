@@ -60,3 +60,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristiancabre10@gmail.com)
   
 </span>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=CristianCab10&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CristianCab10)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=CristianCab10&theme=material-palenight)](https://github.com/CristianCab10)
